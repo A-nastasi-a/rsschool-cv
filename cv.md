@@ -1,7 +1,7 @@
 # Anastasia Evsihneyeva
 ![Profile-picture](profile_picture.jpg)
 
-***
+
 
 ## Contacts
 * **GitHub** [A-nastasi-a](https://github.com/A-nastasi-a)
@@ -9,7 +9,7 @@
 * **Email** evsihneyeva@gmail.com
 * **Skype** e.stacy.d
 
-***
+
 
 ## About me
 My goal for now is to become a front-end developer. I'm very interested in programming and logical exersises. My strength are:
@@ -19,7 +19,7 @@ My goal for now is to become a front-end developer. I'm very interested in progr
 
 Now I work as a teacher for children with Python basics, but I want to move on and become a real programist.
 
-***
+
 
 ## Skills
 
@@ -51,7 +51,7 @@ SQLite3, MySQL
 ### Other
 Postman, Jira, Trello
 
-***
+
 
 ## Code examples
 ```
@@ -86,7 +86,7 @@ function isPrime(num) {
 * Coding web-parsers with python instruments: Requests and BeautifulSoup
 * Checking and analysis of getting data
 
-***
+
 
 ## Education
 **BNTU, Minsk** - bachelor degree
@@ -108,7 +108,7 @@ Automation of technical processes and manufacturing
 
 * JavaScript/Front-end. Stage 0
 
-***
+
 
 ## Elglish level
 **Pre-Intermediate** (speaking, reading, writing)
